@@ -34,7 +34,7 @@ def gcd():
 ```
 
 ## Output:
-![gcd of two number]![gcd](https://user-images.githubusercontent.com/98278161/212604724-91dad4e8-366e-48dd-81fe-84203b192743.png)
+![gcd](https://user-images.githubusercontent.com/98278161/212604724-91dad4e8-366e-48dd-81fe-84203b192743.png)
 
 
 
